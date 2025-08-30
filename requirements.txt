@@ -15,6 +15,7 @@ seaborn
 scikit-learn
 pandas
 matplotlib
-streamlit blinker
+streamlit
+blinker
 joblib
 threadpoolctl
