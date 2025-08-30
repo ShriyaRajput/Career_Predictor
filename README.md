@@ -4,6 +4,8 @@
 An AI-powered web application that predicts the most suitable career paths for students and professionals based on their skills, interests, and background.  
 This project uses **Machine Learning (XGBoost, Scikit-learn)** along with **Streamlit** for an interactive web interface.
 
+🚀 **Live Demo:** [Web App](https://career-predictor-by-shriya.streamlit.app/)
+
 ---
 
 ## 🚀 Features
