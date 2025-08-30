@@ -1,0 +1,20 @@
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+flasgger
+streamlit
+seaborn
+scikit-learn
+pandas
+matplotlib
+streamlit blinker
+joblib
+threadpoolctl
