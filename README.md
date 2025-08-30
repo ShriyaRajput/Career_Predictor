@@ -31,7 +31,7 @@ This project uses **Machine Learning (XGBoost, Scikit-learn)** along with **Stre
 
 ---
 
-## 📂 Developed By
+## 👨‍💻 Developed By
 Shriya Thakur
 
 📧 Email: shriyasinhrajput@gmail.com
